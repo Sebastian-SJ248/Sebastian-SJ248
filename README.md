@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there 👋
 
 <!--
 **Sebastian-SJ248/Sebastian-SJ248** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
